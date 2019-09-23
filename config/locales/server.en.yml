@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    bypass_moderation_enabled: "Bypass moderation for certain usernames?"
+    bypass_moderation_users: "List of usernames whose posts always bypass moderation."

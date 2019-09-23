@@ -1,0 +1,8 @@
+plugins:
+  bypass_moderation_enabled:
+    default: false
+    client: false
+  bypass_moderation_users:
+    default: ""
+    client: false
+    type: list
